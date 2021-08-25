@@ -1,0 +1,20 @@
+#customHeader{
+    margin-top:6rem;
+    margin-bottom:2rem;
+    font-size:4rem;
+    font-weight: 900;
+    text-align: center;
+}
+
+.customText{
+    font-size:1.25rem;
+    text-align: center;
+}
+
+.bigImage{
+    margin-top:2rem;
+}
+
+#bigImage2{
+    margin-bottom:2rem;
+}

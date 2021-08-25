@@ -33,6 +33,10 @@
     background-color: orange;
 }
 
+#secondSection:hover{
+    background-color: #ffcc22;
+}
+
 #customRow1{
     margin-top:30px;
     margin-left:10px;
@@ -44,6 +48,10 @@
 }
 
 #thirdSection{
-    background-color: rgb(168, 18, 18);
+    background-color: rgb(190, 18, 18);
+}
+
+#thirdSection:hover{
+    background-color: rgb(215, 24, 24);
 }
 

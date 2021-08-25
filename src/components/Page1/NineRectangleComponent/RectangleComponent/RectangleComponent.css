@@ -1,0 +1,21 @@
+#customImg{
+    margin-top:35%;
+}
+
+#bigText{
+    font-size:1.3rem;
+    font-weight: 900;
+    text-align: center;
+}
+
+#customInfoButton{
+    background-color: rgb(170, 0, 0);
+    border:0px;
+    border-radius: 20px;
+    width:60%;
+    color:white;
+    height:2rem;
+    font-weight: bold;
+    display:block;
+    margin:0px auto;
+}

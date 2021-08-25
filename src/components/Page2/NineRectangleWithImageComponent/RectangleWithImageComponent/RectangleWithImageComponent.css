@@ -1,0 +1,42 @@
+#customBackgroundRow{
+    background-color: rgb(235, 235, 235);
+    margin-top:2rem;
+}
+
+#imgContainer{
+    padding:0px;
+}
+
+#customComponentText{
+    font-size:1.5rem;
+    font-weight: 900;
+    text-align: center;
+    margin-top:30%;
+}
+
+#myButtonsContainer{
+    padding:0px;
+    margin-top:4rem;
+}
+
+.myButton{
+    border:0px;
+    width:85%;
+    font-weight: bold;
+    color:white;
+    font-size:1.25rem;
+    padding:6px;
+    border-radius: 20px;
+    display:block;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#myButton1{
+    background-color: orange;
+}
+
+#myButton2{
+    background-color: rgb(170, 0, 0);
+}

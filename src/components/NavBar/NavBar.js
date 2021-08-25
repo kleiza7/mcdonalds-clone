@@ -9,7 +9,7 @@ const NavBar = () => {
     <Container fluid id="navContainer">
       <Row>
         <Col id="firstSection" md="8">
-          <img src={logo} id="logo" />
+          <a href="/"><img src={logo} id="logo" /></a>
           <List type="inline" id="customList">
             <ListInlineItem>
               <a href="/mcdonalds-lezzetleri">McDONALD'S LEZZETLERİ</a>
