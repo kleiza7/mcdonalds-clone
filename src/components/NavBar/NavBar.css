@@ -1,0 +1,49 @@
+#navContainer{
+    background-color: black;
+    height:100px;
+}
+
+#firstSection{
+    height:100px;
+}
+
+#logo{
+    position:absolute;
+    top:50px;
+}
+
+#customList{
+    margin-left:10%;
+    margin-top:2rem;
+}
+
+#customList a{
+    text-decoration: none;
+    font-size:1rem;
+    color:white;
+    font-weight: bold;
+}
+
+#customList a:hover{
+    color:white;
+    border-bottom:2px solid yellow;
+}
+
+#secondSection{
+    background-color: orange;
+}
+
+#customRow1{
+    margin-top:30px;
+    margin-left:10px;
+}
+
+#customText{
+    font-weight: bold;
+    color:white;
+}
+
+#thirdSection{
+    background-color: rgb(168, 18, 18);
+}
+

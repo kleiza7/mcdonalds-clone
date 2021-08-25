@@ -1,0 +1,11 @@
+.customButton{
+    border:0px;
+    font-weight: bold;
+    color:white;
+    background-color: orange;
+    border-radius: 20px;
+    width:50%;
+    height:2rem;
+    margin-top:50%;
+    margin-left:1.25rem;
+}

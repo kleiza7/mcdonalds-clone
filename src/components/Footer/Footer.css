@@ -1,0 +1,67 @@
+#bigContainer {
+  margin: 0px;
+  padding: 0px;
+}
+#container1 {
+  background-color: #222222;
+  padding:3rem 3rem 2rem 3rem;
+}
+
+#container1 a{
+    color:gainsboro;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left:1rem;
+}
+#customFooterCol{
+    padding-left:10%;
+}
+
+#footerSmallText{
+    margin-left:1rem;
+    margin-top:1rem;
+    color:gainsboro;
+    font-size:0.9rem;
+}
+
+#container2 {
+  background-color: #181818;
+  padding:1rem 3rem 6rem 3rem;
+}
+
+#customCol{
+    display:flex;
+    margin-left:30%;
+}
+
+#footerCustomText{
+    font-weight: 900;
+    font-size:2rem;
+    color:rgb(255, 190, 70);
+    margin-left:10px;
+}
+
+#footerCustomBox{
+    display:flex;
+}
+
+#footerCustomBox p{
+    color:rgb(146, 146, 146);
+    margin-left:5%;
+}
+
+#footerIcons{
+    margin-top:2rem;
+    margin-left:1rem;
+}
+
+#customDownloadContainer{
+    display:flex;
+    margin-top:1rem;
+}
+
+#downloadImg2{
+    margin-left:10px;
+}
+
+
