@@ -20,13 +20,14 @@
 #customList a{
     text-decoration: none;
     font-size:1rem;
+    padding-bottom: 2.55rem;
     color:white;
     font-weight: bold;
 }
 
 #customList a:hover{
     color:white;
-    border-bottom:2px solid yellow;
+    border-bottom:5px solid yellow;
 }
 
 #secondSection{

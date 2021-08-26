@@ -21,7 +21,7 @@ const NavBar = () => {
               <a href="/hakkimizda">HAKKIMIZDA</a>
             </ListInlineItem>
             <ListInlineItem>
-              <a href="/mcdonalds-in-sirri">McDONALD'S'IN SIRRI</a>
+              <a href="/mcdonaldsin-sirri">McDONALD'S'IN SIRRI</a>
             </ListInlineItem>
             <ListInlineItem>
               <a href="/restoranlar">RESTORANLAR</a>

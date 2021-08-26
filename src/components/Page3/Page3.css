@@ -1,58 +1,56 @@
-#myBigContainer{
-    padding:0px;
+#myBigContainer {
+  padding: 0px;
 }
 
-
-
-#myBigHeader{
-    font-size: 1.75rem;
-    font-weight: bold;
-    color:white;
-    margin-top: 4rem;
-    text-align: center;
+#myBigHeader {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: white;
+  margin-top: 4rem;
+  text-align: center;
 }
 
-.myBigText{
-    font-size:1.25rem;
-    font-weight: bold;
-    color:white;
-    text-align: center;
+.myBigText {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
 }
 
-.myCustomButton{
-    border-radius: 20px;
-    border:0px;
-    background-color: rgb(170, 0, 0);
-    color:white;
-    font-weight: bold;
-    padding:8px;
-    margin-top:2rem;
-    display:block;
-    margin:2rem auto;
+.myCustomButton {
+  border-radius: 20px;
+  border: 0px;
+  background-color: rgb(170, 0, 0);
+  color: white;
+  font-weight: bold;
+  padding: 8px;
+  margin-top: 2rem;
+  display: block;
+  margin: 2rem auto;
 }
 
-#myCustomButton1{
-    width:20%;
+#myCustomButton1 {
+  width: 20%;
 }
 
-#customCard{
-    margin-top:2rem;
+#customCard {
+  margin-top: 2rem;
 }
 
-#myCardBody{
-    padding:0px;
-    margin-top: 8rem;
+#myCardBody {
+  padding: 0px;
+  margin-top: 8rem;
 }
 
-#myCustomButton2{
-    width:50%;
+#myCustomButton2 {
+  width: 50%;
 }
 
-#myCustomText{
-    margin-top: 6rem;
-    text-align: center;
+#myCustomText {
+  margin-top: 6rem;
+  text-align: center;
 }
 
-#myCustomButton3{
-    width:20%;
+#myCustomButton3 {
+  width: 20%;
 }
