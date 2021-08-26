@@ -1,7 +1,7 @@
 import React from 'react'
-import "./SmallComponent.css";
+import "./SmallComponent1.css";
 
-const SmallComponent = ({img, buttonText}) => {
+const SmallComponent1 = ({img, buttonText}) => {
     return (
         <div style={{background:`url(${img})`, backgroundSize:"cover", height:"300px"}}>
             <button className="customButton">{buttonText}&nbsp;&nbsp;<b>></b></button>
@@ -9,4 +9,4 @@ const SmallComponent = ({img, buttonText}) => {
     )
 }
 
-export default SmallComponent
+export default SmallComponent1

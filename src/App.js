@@ -5,6 +5,7 @@ import {Route} from "react-router-dom";
 import Home from "./components/Home/Home";
 import Page1 from './components/Page1/Page1';
 import Page2 from './components/Page2/Page2';
+import Page3 from './components/Page3/Page3';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Route exact path="/" component={() => <Home />} />
       <Route exact path="/mcdonalds-lezzetleri" component={() => <Page1 />} />
       <Route exact path="/kampanyalar" component={() => <Page2 />} />
+      <Route exact path="/hakkimizda" component={() => <Page3 />} />
       <Footer />
     </div>
   );
